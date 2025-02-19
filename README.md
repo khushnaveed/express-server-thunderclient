@@ -2,7 +2,7 @@
 ## listen for any incoming request on port 8000
 ## testing endpoints using thunder client
 
-* create these endpoints
+* create these routes
   
 - GET /users  => send text "recieved your GET request on /users"
 - POST /users => send text "recieved your POST request on /users"
